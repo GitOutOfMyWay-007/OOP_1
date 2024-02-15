@@ -10,7 +10,6 @@ timmy.forward(100)     # object method / function
 my_screen = Screen()  # my_screen object declared from Screen class
 print(my_screen.canvheight)  # attribute declared from the object
 my_screen.exitonclick()
-#create a comment for github
 
 
 from prettytable import PrettyTable
@@ -24,3 +23,4 @@ print(table.align)
 table.align = 'l'  # changing the value of object attribute / variable
 print(table)
 print(table.align)
+print("This file is uploaded to git and this is test print to update files.")
